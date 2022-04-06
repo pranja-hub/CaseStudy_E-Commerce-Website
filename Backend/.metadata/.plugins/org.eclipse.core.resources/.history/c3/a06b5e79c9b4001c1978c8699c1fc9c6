@@ -1,0 +1,23 @@
+package com.cart.contoller;
+
+import org.junit.jupiter.api.MethodOrderer.OrderAnnotation;
+import org.junit.jupiter.api.TestMethodOrder;
+import org.mockito.InjectMocks;
+import org.mockito.Mock;
+import org.springframework.boot.test.context.SpringBootTest;
+import org.springframework.web.client.RestTemplate;
+
+import com.cart.controller.CartController;
+
+@TestMethodOrder(OrderAnnotation.class)
+@SpringBootTest(classes = { ControllerTest.class })
+public class ControllerTest {
+
+	 @InjectMocks
+	    private CartController controller;
+	    @Mock
+	    private OwnerServiceImplement ownerServiceImplement;
+	    @Mock
+	    private RestTemplate restTemplate;
+	
+}

@@ -1,0 +1,5 @@
+package com.productservice.exceptioncontroller;
+
+public class MyControllerAdvice {
+
+}

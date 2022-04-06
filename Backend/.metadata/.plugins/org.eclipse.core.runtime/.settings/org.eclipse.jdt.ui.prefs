@@ -1,0 +1,14 @@
+content_assist_autoactivation=true
+content_assist_autoactivation_triggers_java=.abcdefghijklmnopqrstuvwxyz
+content_assist_category_order=org.eclipse.jdt.ui.templateProposalCategory\:0\u0000org.eclipse.jdt.ui.swtProposalCategory\:1\u0000org.eclipse.jdt.ui.javaNoTypeProposalCategory\:2\u0000org.eclipse.jdt.ui.javaChainProposalCategory\:3\u0000org.eclipse.jdt.ui.javaTypeProposalCategory\:4\u0000org.eclipse.jdt.ui.textProposalCategory\:65540\u0000org.eclipse.jdt.ui.javaAllProposalCategory\:6\u0000org.eclipse.jdt.ui.javaPostfixProposalCategory\:7\u0000org.eclipse.pde.api.tools.ui.apitools_proposal_category\:8\u0000org.eclipse.lsp4e.jdt.ls-based-java-completion-computer\:9\u0000
+content_assist_lru_history=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><history maxLHS\="100" maxRHS\="10"><lhs name\="org.springframework.http.HttpEntity"><rhs name\="org.springframework.http.ResponseEntity"/></lhs><lhs name\="org.springframework.http.ResponseEntity"><rhs name\="org.springframework.http.ResponseEntity"/></lhs><lhs name\="com.example.demo.entity.UserEntity"><rhs name\="com.example.demo.entity.UserEntity"/></lhs><lhs name\="org.springframework.web.client.RestOperations"><rhs name\="org.springframework.web.client.RestTemplate"/></lhs><lhs name\="org.springframework.http.client.support.InterceptingHttpAccessor"><rhs name\="org.springframework.web.client.RestTemplate"/></lhs><lhs name\="org.springframework.http.client.support.HttpAccessor"><rhs name\="org.springframework.web.client.RestTemplate"/></lhs><lhs name\="org.springframework.web.client.RestTemplate"><rhs name\="org.springframework.web.client.RestTemplate"/></lhs><lhs name\="java.util.Collection"><rhs name\="java.util.ArrayList"/></lhs><lhs name\="java.lang.Iterable"><rhs name\="java.util.ArrayList"/></lhs><lhs name\="java.util.List"><rhs name\="java.util.ArrayList"/></lhs><lhs name\="com.loginSecurity.model.UserModel"><rhs name\="com.loginSecurity.model.UserModel"/></lhs><lhs name\="com.cart.model.CartEntity"><rhs name\="com.cart.model.CartEntity"/></lhs><lhs name\="com.OrderCart.model.OrderEntity"><rhs name\="com.OrderCart.model.OrderEntity"/></lhs><lhs name\="com.productservice.model.ProductEntity"><rhs name\="com.productservice.model.ProductEntity"/></lhs></history>
+content_assist_number_of_computers=15
+content_assist_proposals_background=255,255,255
+content_assist_proposals_foreground=0,0,0
+eclipse.preferences.version=1
+org.eclipse.jdt.ui.formatterprofiles.version=21
+org.eclipse.jdt.ui.text.custom_code_templates=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?><templates/>
+spelling_locale_initialized=true
+typefilter_migrated_2=true
+useAnnotationsPrefPage=true
+useQuickDiffPrefPage=true
