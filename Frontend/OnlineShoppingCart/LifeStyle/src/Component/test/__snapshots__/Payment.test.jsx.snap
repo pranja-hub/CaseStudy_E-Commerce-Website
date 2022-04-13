@@ -1,0 +1,54 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<div>
+  <nav
+    className="navbar navbar-inverse bg-dark navbar-dark"
+  >
+    <div
+      className="container"
+    >
+      <div
+        className="navbar-header"
+      >
+        <div
+          className="navbar-brand active"
+        >
+          Lifestyle Store
+        </div>
+      </div>
+    </div>
+  </nav>
+  <div
+    id="banner_image"
+  >
+    <div
+      className="container"
+    >
+      <div
+        className="banner_content"
+      />
+    </div>
+  </div>
+  <div
+    className="footer"
+  >
+    <div
+      className="container"
+    >
+      <center>
+        <h>
+          <b>
+            Copyright © Lifestyle Store. All Rights Reserved
+          </b>
+           and
+           
+          <b>
+            Contact Us: +91 90000 00000
+          </b>
+        </h>
+      </center>
+    </div>
+  </div>
+</div>
+`;
